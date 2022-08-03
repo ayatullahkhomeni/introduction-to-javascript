@@ -38,4 +38,6 @@ console.log(sum);
 var totalNum = num1 * num2;
 totalNum = totalNum.toFixed(4);
 totalNum = parseFloat(totalNum);
-console.log(totalNum); 
+console.log(totalNum);
+
+var i = 1;
